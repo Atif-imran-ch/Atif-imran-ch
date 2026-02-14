@@ -1,69 +1,21 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=007ACC&height=250&section=header&text=Atif%20Imran&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Engineer%20•%20VILT%20Stack%20Specialist&descAlignY=60&descAlign=50" width="100%"/>
-</div>
 
-<p align="center">
-  <a href="mailto:atifimranchishti2843@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://bsky.app/profile/AtifImran"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://visitcount.itsvg.in/api?id=Atif-imran-ch&icon=2&color=6"><img src="https://img.shields.io/badge/Profile%20Views-000000?style=flat-square&logo=github" /></a>
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Atif Imran) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Atif Imran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atifimranchishti2843@gmail.com) 
 
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Atif-imran-ch&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Atif-imran-ch&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atif-imran-ch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ⚡ Professional Summary
-I bridge the gap between complex backend logic and fluid user interfaces. My specialty is building **Modern Monoliths** using **Laravel 12** and **Inertia.js**, ensuring end-to-end type safety with **TypeScript**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Atif-imran-ch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 **Expertise:** Scalable E-learning Architectures & Fintech Integrations.
-- 🛠️ **Current Project:** High-performance Order Management System with Stripe & Laravel 12.
-- 🧪 **Approach:** Test-Driven Development (TDD) and Clean Architecture (SOLID).
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Atif-imran-ch&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ My Tech Ecosystem
-
-| **Area** | **Primary Stack** | **Supporting Tools** |
-| :--- | :--- | :--- |
-| **Monolith** | `Laravel 12`, `Inertia.js`, `React` | `Breeze`, `Jetstream`, `Fortify` |
-| **Frontend** | `TypeScript`, `TailwindCSS`, `Next.js` | `Framer Motion`, `Zustand`, `React Hook Form` |
-| **Backend** | `PHP 8.4+`, `MySQL`, `Redis` | `Eloquent`, `Spatie Packages`, `Stripe SDK` |
-| **DevOps** | `Docker`, `AWS`, `GitHub Actions` | `Forge`, `Vapor`, `DigitalOcean` |
-
----
-
-### 💻 My Development Workflow
-1. **Plan:** Database Schema design & API/Inertia Route mapping.
-2. **Build:** Laravel Backend with strict typing + React Components with TS Interfaces.
-3. **Secure:** Middleware implementation, Stripe Webhooks, and Sanctum/Fortify.
-4. **Deploy:** CI/CD via GitHub Actions to scalable environments.
-
----
-
-### 📊 GitHub Insights & Activity
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Atif-imran-ch&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&border_radius=10" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=Atif-imran-ch&theme=tokyonight&hide_border=false&border_radius=10" width="100%"/>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif-imran-ch&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&border_radius=10" width="60%" />
-</div>
-
----
-
-### 🏆 Recognitions
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atif-imran-ch&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
